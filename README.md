@@ -5,7 +5,7 @@
 
 - 🔭 Я сейчас работаю над "Входом в IT".
 - 🌱 Сейчас я изучаю javascript.
-- 📫 Сомной можно связаться: 
+- 📫 Со мной можно связаться: 
   - telegram: <a href="https://t.me/IISergey">@IISergey</a>
   - gmail: <a href="https://licosis87@gmail.com">licosis87@gmail.com</a> 
   - mail.ru: <a href="https://licos.87@mail.ru">licos.87@mail.ru</a>,
