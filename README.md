@@ -1,9 +1,7 @@
 # Всем привет! 👋 Меня зовут Сергей.
+Я увлекся фронтенд разработкой, потому-что это творческая работа, создавать и оживлять веб приложения очень интересно. 
 
 
-
-
-- 🔭 Я сейчас работаю над "Входом в IT".
 - 📫 Со мной можно связаться: 
   - telegram: <a href="https://t.me/IISergey">@IISergey</a>
   - gmail: <a href="https://licosis87@gmail.com">licosis87@gmail.com</a> 
@@ -18,6 +16,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-style?style=for-the-badge&logo=react&color=0a2c4e)
+![Redux](https://img.shields.io/badge/Redux-style?style=for-the-badge&logo=redux&color=4b0082)
+![ReactRouter](https://img.shields.io/badge/Redux-style?style=for-the-badge&logo=reactrouter&color=212121)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
