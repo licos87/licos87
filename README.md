@@ -24,4 +24,6 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-style5b1092?style=for-the-badge&logo=axios&logoColor=5b1092&color=f2f3f4)
+
 
