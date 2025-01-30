@@ -4,7 +4,6 @@
 
 
 - 🔭 Я сейчас работаю над "Входом в IT".
-- 🌱 Сейчас я изучаю javascript.
 - 📫 Со мной можно связаться: 
   - telegram: <a href="https://t.me/IISergey">@IISergey</a>
   - gmail: <a href="https://licosis87@gmail.com">licosis87@gmail.com</a> 
