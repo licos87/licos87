@@ -18,9 +18,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-style?style=for-the-badge&logo=react&color=0a2c4e)
 ![Redux](https://img.shields.io/badge/Redux-style?style=for-the-badge&logo=redux&color=4b0082)
-![ReactRouter](https://img.shields.io/badge/Redux-style?style=for-the-badge&logo=reactrouter&color=212121)
+![ReactRouter](https://img.shields.io/badge/React%20Router-style?style=for-the-badge&logo=reactrouter&color=484848)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
