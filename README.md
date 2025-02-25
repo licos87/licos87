@@ -10,7 +10,7 @@
 
 ![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=licos87&show_icons=true&theme=radical)
 
-[![codewars](https://www.codewars.com/users/SergeyII/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/llSergey/badges/large)](https://www.codewars.com/users/username)
 
 ## Использовал в проектах:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
