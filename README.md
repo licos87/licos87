@@ -6,7 +6,7 @@
   - telegram: <a href="https://t.me/IISergey">@IISergey</a>
   - gmail: <a href="https://licosis87@gmail.com">licosis87@gmail.com</a> 
   - mail.ru: <a href="https://licos.87@mail.ru">licos.87@mail.ru</a>,
-  - Хабр Карьера: <a href="https://https://career.habr.com/llsergey">llsergey</a>
+  - Хабр Карьера: [llsergey](https://career.habr.com/llsergey)
 
 ![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=licos87&show_icons=true&theme=radical)
 
