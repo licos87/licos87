@@ -3,7 +3,7 @@
 
 
 - 📫 Со мной можно связаться: 
-  - telegram: <a href="https://t.me/IISergey">[@IISergey](https://t.me/llSergey)</a>
+  - telegram: <a href="https://t.me/IISergey">https://t.me/llSergey</a>
   - gmail: <a href="https://licosis87@gmail.com">licosis87@gmail.com</a> 
   - mail.ru: <a href="https://licos.87@mail.ru">licos.87@mail.ru</a>
   - Хабр Карьера: [llsergey](https://career.habr.com/llsergey)
